@@ -18,7 +18,7 @@ Inlet Conditions
 Results
 - The simulation showed a high-velocity central jet penetrating down through the chamber, with the velocity dropping sharply as the flow spread into the larger chamber volume. The pattern matches what would be expected for a confined liquid jet entering a much larger open volume.
   
-![LOX flow result](LOX_FLOW_SIMULATION.png)
+![LOX flow result](RP-1_FLOW_SIMULATION.png)
 ---
 🧪 RP-1 Flow Simulation:
 ---
@@ -32,7 +32,7 @@ Results
 - The radial jets through the pintle holes are clearly visible as high-velocity streams shooting sideways into the chamber. The flow accelerates significantly as it squeezes through the small holes.
 - One observation: the holes did not all flow at exactly the same velocity. Some holes show higher exit velocities than others. On a real injector this would indicate uneven fuel distribution, which would affect combustion uniformity and is a real design consideration.
   
-![RP-1 flow result](RP-1_FLOW_SIMULATION.png)
+![RP-1 flow result](LOX_FLOW_SIMULATION.png)
 ---
 ---
 ⚠️ Limitations
